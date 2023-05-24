@@ -4,6 +4,6 @@
 
 <p id="description">simple exercises where we will create small circuits to understand what dynamic circuits are and how they work. Dynamic circuit gates that simulate the classical if statement.</p>
 
-<h2>Project Screenshots:</h2>
+<h2>Project Screenshot:</h2>
 
-<img src="https://github.com/Vaishakgkumar/IBM-Quantum-Spring-Challenge-2023/assets/70128944/6863751f-5905-4f1f-9b4f-673e1ac63bd8" alt="project-screenshot" width="600" height="600/">
+<img src="https://github.com/Vaishakgkumar/IBM-Quantum-Spring-Challenge-2023/assets/70128944/6863751f-5905-4f1f-9b4f-673e1ac63bd8" alt="project-screenshot" width="700" height="600/">

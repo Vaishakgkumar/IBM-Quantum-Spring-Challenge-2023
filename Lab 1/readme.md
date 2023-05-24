@@ -6,4 +6,5 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://imgur.com/a/Bc3ugdZ" alt="project-screenshot" width="400" height="400/">
+<img src="[https://imgur.com/a/Bc3ugdZ](https://github.com/Vaishakgkumar/IBM-Quantum-Spring-Challenge-2023/assets/70128944/931fa46f-0519-4cd8-9717-362c43acd8e2)" alt="project-screenshot" width="400" height="400/">
+
